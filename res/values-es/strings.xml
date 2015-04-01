@@ -1431,6 +1431,8 @@
     <string name="vpn_settings_not_available" msgid="956841430176985598">"Los ajustes de VPN no están disponibles para este usuario"</string>
     <string name="tethering_settings_not_available" msgid="6765770438438291012">"Los ajustes del anclaje a red no están disponibles para este usuario"</string>
     <string name="apn_settings_not_available" msgid="7873729032165324000">"Los ajustes del nombre de punto de acceso no están disponibles para este usuario"</string>
+    <string name="advanced_reboot_title">Reinicio modo avanzado</string>
+    <string name="advanced_reboot_summary">Al desbloquear, incluir en el menú de apagado opciones para reiniciar en modo recovery, bootloader o realizar un reinicio rápido</string>
     <string name="enable_adb" msgid="7982306934419797485">"Depuración USB"</string>
     <string name="enable_adb_summary" msgid="4881186971746056635">"Activar el modo de depuración cuando el dispositivo esté conectado por USB"</string>
     <string name="clear_adb_keys" msgid="4038889221503122743">"Revocar autorizaciones depur. USB"</string>
